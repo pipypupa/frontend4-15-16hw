@@ -1,0 +1,23 @@
+{
+  "name": "frontend4-15-16hw",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "npx parcel src/index.html",
+    "build": "parcel build src/index.html --no-cache --public-url frontend4-15-16hw",
+    "deploy": "gh-pages -d dist",
+    "predeploy": "npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "@pnotify/bootstrap4": "^5.2.0",
+    "@pnotify/core": "^5.2.0",
+    "@pnotify/mobile": "^5.2.0"
+  }
+}
