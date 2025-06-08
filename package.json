@@ -14,7 +14,8 @@
   "license": "ISC",
   "devDependencies": {
     "gh-pages": "^6.3.0",
-    "parcel": "^2.15.2"
+    "parcel": "^2.15.2",
+    "parcel-reporter-clean-dist": "^1.0.4"
   },
   "dependencies": {
     "@pnotify/bootstrap4": "^5.2.0",
