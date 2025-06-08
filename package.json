@@ -2,6 +2,7 @@
   "name": "frontend4-15-16hw",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://pipypupa.github.io/frontend4-15-16hw/",
   "scripts": {
     "start": "npx parcel src/index.html",
     "build": "parcel build src/index.html --no-cache --public-url frontend4-15-16hw",
