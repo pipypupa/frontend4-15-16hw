@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.search-box {
+    background-color: pink;
+    padding: 10px 10px;
+    border-radius: 5px;
+    border-style: none;
+    font-family: 10px;
+}
